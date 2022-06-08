@@ -11,3 +11,4 @@
 [![Issues][issues-shield]][issues-url]
 
 # WcDogProxy
+</div>
